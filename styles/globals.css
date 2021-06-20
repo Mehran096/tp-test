@@ -1,0 +1,108 @@
+ 
+
+html,
+body {
+  background: linear-gradient(-70deg, #fa7c30 30%, rgba(0, 0, 0, 0) 30%), url('../public/images/graph-f.jpg')
+!important;
+ 
+   
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+ 
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+.search-f{
+   margin-left: auto;
+
+}
+
+
+header{
+   background: #292e1f;
+   display: flex;
+   align-items: center;
+   padding: 15px 0;
+}
+header ul{
+   list-style: none;
+   display: flex;
+   padding: 0;
+   margin: 0;
+   
+}
+
+header ul a{
+  text-decoration: none;
+  color:#fff;
+}
+
+#social-links{
+   margin-left: auto;
+   padding: 10px;
+}
+
+#social-links li{
+  
+  padding: 10px;
+}
+
+#menu li{
+  
+  padding: 10px;
+}
+#second{
+  margin-left: 14rem;
+   
+  margin-top: 4rem;
+}
+
+
+
+ 
+ 
+.search-bar{
+    
+    text-align: center;
+    width: 400px;
+    margin-left: 30px;
+     
+}
+.large-f{
+    width: 1000px;
+    height: 1070px;
+     
+    overflow-y: hidden;
+    margin-top: 30px;
+    margin-left: 15rem;
+    border-radius: 10px;
+    background: #fff;
+     
+    position: relative;
+    
+}
+
+.lorem-f{
+    width: 500px;
+     border: 1px solid rgb(75, 66, 66);
+}
+
+.first{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-around;
+    justify-content: space-around;
+}
+
+ 
